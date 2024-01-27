@@ -27,7 +27,7 @@ To explore the Tableau dashboards:
 
 ## Data Cleaning and Transformation
 
-The process of cleaning and transforming the raw GTD data is documented in the `/data_processing` directory. Details on data cleaning steps, handling missing values, and creating calculated fields can be found here.
+The process of cleaning and transforming the raw GTD data is documented in the (data/) directory. Details on data cleaning steps, handling missing values, and creating calculated fields can be found here.
 
 ## Acknowledgments
 
