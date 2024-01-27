@@ -17,6 +17,7 @@ The Tableau dashboards included in this project showcase various aspects of glob
 - Temporal trends and patterns
 - Attack types and their frequency
 - Group affiliations and tactics
+- Visualize the data using Python and Tableau. Check out the Tableau Workbook [Global Terrorism Analysis](https://public.tableau.com/views/GlobalTerrorism_17063818345270/Dashboard1?:language=en-GB&:display_count=n&:origin=viz_share_link)
 
 ## Dashboard Usage
 
@@ -31,7 +32,7 @@ The process of cleaning and transforming the raw GTD data is documented in the [
 
 ## Acknowledgments
 
-- We express gratitude to the creators and maintainers of the Global Terrorism Database for providing a valuable resource for researchers and analysts.
+- I express gratitude to the creators and maintainers of the Global Terrorism Database for providing a valuable resource for researchers and analysts.
 - Special thanks to the Tableau community for their contributions to data visualization.
 
 Feel free to reach out if you have questions or suggestions for improving this analysis.
