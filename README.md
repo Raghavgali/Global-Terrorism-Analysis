@@ -25,12 +25,6 @@ To explore the Tableau dashboards:
 2. Navigate to the respective workbook or visualization file.
 3. Interact with the dashboards by selecting filters, hovering over data points, and exploring different sheets.
 
-## Repository Structure
-
-- **/data:** Contains the GTD dataset files used for analysis.
-- **/tableau:** Holds Tableau workbook files (.twb) and packaged workbooks (.twbx).
-- **/images:** Stores images/screenshots of Tableau visualizations for reference.
-
 ## Data Cleaning and Transformation
 
 The process of cleaning and transforming the raw GTD data is documented in the `/data_processing` directory. Details on data cleaning steps, handling missing values, and creating calculated fields can be found here.
